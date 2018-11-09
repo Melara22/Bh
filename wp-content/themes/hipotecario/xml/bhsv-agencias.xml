@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<country>
+		<name>El Salvador</name>
+		<coordinates>13.737109, -88.942066</coordinates>
+			<city>
+				<name>Ahuachapán</name>
+				<coordinates>13.927401, -89.844518</coordinates>
+				<placemarket>
+					<name>Agencia Ahuachapán</name>
+					<coordinates>13.920967,-89.846832</coordinates>
+					<description>Avenida Francisco Menendez  y Calle Gerardo Barrios, Ahuachapán</description>
+					<telephone>2443-0232/64/2243-1476</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Cara Sucia</name>
+					<coordinates>13.778078,-90.033143</coordinates>
+					<description>Barrio San Rafael, Centro de Cara Sucia No. 14, San Francisco Menéndez, Ahuachapán</description>
+					<telephone>2231-6026/27/28/29</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Chalatenango</name>
+				<coordinates>14.015252,-88.915787</coordinates>
+				<placemarket>
+					<name>Agencia Nueva Concepción</name>
+					<coordinates>14.126600,-89.292003</coordinates>
+					<description>4ta.Cl. Pte,Bo.El Centro #386 ,Nueva Concepcion,Chalatenango</description>
+					<telephone>2231-4655/52/53</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Mini Agencia  El Coyolito</name>
+					<coordinates>14.078723,-89.141253</coordinates>
+					<description>Carret. Troncal del Norte,KM 48 1/2, Centro Comercial Don Yon #2 Tejutla,Chalatenango</description>
+					<telephone>2231-4660</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla San Ignacio</name>
+					<coordinates>14.355838,-89.189866</coordinates>
+					<description>Lotificación Katmandú, caserío Las Tunas, Cantón el Carmen Municipio de San Ignacio, Chalatenango.  (Oficinas Plan Trifinio)</description>
+					<telephone>2131-4698 y 7855-9465</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:00 PM a 1:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>La Libertad</name>
+				<coordinates>13.732058, -89.375118</coordinates>
+				<placemarket>
+					<name>Agencia Lourdes</name>
+					<coordinates>13.727683,-89.358944</coordinates>
+					<description>Centro Comercial Unicentro Lourdes local 1-9, Carretera Panamericana</description>
+					<telephone>2231-4695/96</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:30 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Merliot</name>
+					<coordinates>13.678943,-89.277368</coordinates>
+					<description>Calle Chiltiupán y 17 Avenida Norte,Santa Tecla, Departamento de la Libertad</description>
+					<telephone>2231-4607, 2231-4608/09</telephone>
+					<horary>Lunes a Viernes 9:00 AM - 5:00 PM, Sabado 9:00 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Puerto de La Libertad</name>
+					<coordinates>13.487463,-89.321032</coordinates>
+					<description>2º. Calle Poniente, Local 4, Barrio el Centro, Centro Comercial Miramar Plaza, La Libertad.    ( Frente el Malecón).</description>
+					<telephone>2248-8081/8089/8088</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Santa Elena</name>
+					<coordinates>13.666172,-89.265774</coordinates>
+					<description>Urbanización Bosques de Santa Elena # 9 y 10, block “B”, Antiguo Cuscatlán, La Libertad.</description>
+					<telephone>2209-8190/85/86/89</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:30 AM - 1:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Santa Tecla</name>
+					<coordinates>13.672422,-89.284557</coordinates>
+					<description>Centro Comercial Santa Tecla,  2a. Calle Poniente y 5a. Avenida Sur, Local 2, Santa Tecla, La Libertad. </description>
+					<telephone>2132-796179/7962/7963/7964/7965/7966</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 5:00 PM, Sabado 8:30 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>La Paz</name>
+				<coordinates>13.506960, -88.974259</coordinates>
+				<placemarket>
+					<name>Agencia Aeropuerto</name>
+					<coordinates>13.446976,-89.057222</coordinates>
+					<description>Centro Comercial Aerocentro, Local 4, ubicado en parqueo Aeropuerto Internacional de El Salvador, La Paz</description>
+					<telephone>2339-9903/08</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Zacatecoluca</name>
+					<coordinates>13.507531,-88.870950</coordinates>
+					<description>1a. Calle Poniente y Av. José Matías Delgado, Zacatecoluca, La Paz</description>
+					<telephone>2334-0060/1019</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>La Unión</name>
+				<coordinates>13.333689, -87.853503</coordinates>
+				<placemarket>
+					<name>Agencia Santa Rosa de Lima</name>
+					<coordinates>13.624869,-87.892722</coordinates>
+					<description>1a. Avenida Sur Barrio La Esperanza Santa Rosa de Lima La Unión</description>
+					<telephone>2641-3624/3985 2609-8192</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Morazán</name>
+				<coordinates>13.768160, -88.103101</coordinates>
+				<placemarket>
+					<name>Agencia San Francisco Gotera</name>
+					<coordinates>13.694890,-88.105730</coordinates>
+					<description>4ta calle Poniente, 1ra y 3ra avenida Sur, Barrio La Soledad, San Francisco Gotera, Departamento de Morazán</description>
+					<telephone>2525-1201, 2525-1202, 2525-1203, 2525-1204.</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>San Miguel</name>
+				<coordinates>13.472255, -88.175956</coordinates>
+				<placemarket>
+					<name>Agencia San Miguel Centro</name>
+					<coordinates>13.482514,-88.176947</coordinates>
+					<description>2a. Calle poniente No. 192, San Miguel</description>
+					<telephone>2661-7420/21  /2661-6203/58/</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia San Miguel Roosevelt</name>
+					<coordinates>13.482963,-88.184638</coordinates>
+					<description>Av. Roosevelt Nte. Y 6a. Calle Pte Barrio San Felipe, San Miguel</description>
+					<telephone>2231-4620/21/26/27/23</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:30 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Mini Agencia Ciudad Barrios</name>
+					<coordinates>13.765770,-88.271586</coordinates>
+					<description>Entre 1° calle Pte. Y 3° Av. Nte. No. 9, Barrio El Centro, Ciudad Barrios San Miguel </description>
+					<telephone>2665-8135 </telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>San Salvador</name>
+				<coordinates>13.701649, -89.218300</coordinates>
+				<placemarket>
+					<name>Agencia 25a. Av. Nte.</name>
+					<coordinates>13.713461,-89.203801</coordinates>
+					<description>25 Av. Nte. Y 27 Calle Pte. Bo. San José #1429, San Salvador</description>
+					<telephone>2231-4665/66/67</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Autopista Sur </name>
+					<coordinates>13.683124,-89.237117</coordinates>
+					<description>Boulevard los Proceres, Prolongación Nte y Av. Las Palmeras, San Salvador</description>
+					<telephone>2248-8018/03/04</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:30 AM - 12.30 PM </horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Centro </name>
+					<coordinates>13.697120,-89.191421</coordinates>
+					<description>Av. Cuscatlan entre 4a y 6a Calle Oriente, San Salvador</description>
+					<telephone>2231-6000 /11/12/01</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4.00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Paseo</name>
+					<coordinates>13.702608,-89.236467</coordinates>
+					<description>Paseo General Escalon No. 4130,San Salvador</description>
+					<telephone>2231-4601/02/03/04/05/06</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 1:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Senda Florida</name>
+					<coordinates>13.700768,-89.225810</coordinates>
+					<description>Col. Escalón Pje. Senda Florida Sur, San Salvador</description>
+					<telephone>2250-7000 /2250-7094/53/53</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:30 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Unicentro Soyapango</name>
+					<coordinates>13.714795,-89.140474</coordinates>
+					<description>Centro Comercial Unicentro Locales #55C y 56C, Soyapango</description>
+					<telephone>2231-4648/4678/4679/4677</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:30 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Zacamil</name>
+					<coordinates>13.726860,-89.202589</coordinates>
+					<description>Centro Comercial Zacamil II, Local número 6 en la esquina Sur Oeste de la 29 Avenida Norte y Calle Zacamil, Mejicanos, S.S. </description>
+					<telephone>2248-8087/85/84</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla Aguilares (BFA)</name>
+					<coordinates>13.957884,-89.188028</coordinates>
+					<description>6ª Calle Poniente No.8, Costado Norte de la Alcaldía, Aguilares, San Salvador</description>
+					<telephone>7985-6068</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:30 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla CNR</name>
+					<coordinates>13.702449,-89.213866</coordinates>
+					<description>1° Calle Poniente y 43 Avenida Norte número 2310, San Salvador</description>
+					<telephone>2231-4644</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:00 PM a 1:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla corporativa Centro Comercial  Pericentro Apopa distrito 1</name>
+					<coordinates>13.794513,-89.177563</coordinates>
+					<description>Carretera Troncal del Norte y calle a la estación, Centro Comercial Pericentro Apopa, local 4, Municipio de Apopa, San Salvador</description>
+					<telephone>2231-7943</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:30PM a 1:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla Palacio Municipal de Apopa</name>
+					<coordinates>13.801981,-89.179317</coordinates>
+					<description>2° Calle Poniente y 2° Avenida Sur,  Municipio de Apopa, San Sanvador </description>
+					<telephone>2231-4645  y 7742-5432</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:00 PM a 1:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla San Martín (BFA)</name>
+					<coordinates>13.736499,-89.055636</coordinates>
+					<description>Ing. Juan Ovidio Hércules Melgar, San Salvador
+				Avenida Morazán y 6ª Calle Poniente, San Martín.</description>
+					<telephone>7985-6068 y 2331-4048</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:30 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla Tonacatepeque, Mercado Municipal </name>
+					<coordinates>13.779555,-89.118255</coordinates>
+					<description>4ª. Avenida Sur y 1ª. Calle Poniente, costado norte al Mercado Municipal, frente a Parque Central de Tonacatepeque, S.S.</description>
+					<telephone>2132-7968 y 7039-3400</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 1:00 PM a 2:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>San Vicente</name>
+				<coordinates>13.641337, -88.785467</coordinates>
+				<placemarket>
+					<name>Agencia San Vicente</name>
+					<coordinates>13.644635,-88.784284</coordinates>
+					<description>1a. Calle Oriente No. 2, San Vicente, Barrio El Centro SanVicente.</description>
+					<telephone>2231-4630/31/32</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:30 PM, Sabado 8:00 AM - 12:30 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Santa Ana</name>
+				<coordinates>13.985790, -89.562307</coordinates>
+				<placemarket>
+					<name>Agencia Chalchuapa</name>
+					<coordinates>13.985071,-89.678969</coordinates>
+					<description>2a Calle Ote. y Av. 2 de Abril Nte , Chalchuapa</description>
+					<telephone>2231-4641-22314640/41/43/75/2444-0127</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Metapan</name>
+					<coordinates>14.332258,-89.446918</coordinates>
+					<description>3a. Calle Poniente y Avenida Isidro Menéndez # 14, Metapan, Santa Ana</description>
+					<telephone>2402-3824/26 2231-4691</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Santa Ana Centro</name>
+					<coordinates>13.995152,-89.557836</coordinates>
+					<description>2a Calle Poniente y 2a Av. Norte, Santa Ana</description>
+					<telephone>2441-1273/ 2441-2313/2441-1275/2313/2447-3188</telephone>
+					<horary>Lunes a Viernes 8:30 AM - 4:30 PM, Sabado 8:30 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Agencia Santa Ana Los Héroes</name>
+					<coordinates>13.975843,-89.560087</coordinates>
+					<description>Parque Comercial Los Héroes, Polígono 1, Lote 7-B, Cantón Loma Alta, Santa Ana</description>
+					<telephone>2440-6635/6619/2231-4680</telephone>
+					<horary>Lunes a Viernes 9:00 AM - 5:00 PM, Sabado 8:30 AM - 12:30 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla Alcaldia Municipal de Candelaria de la Frontera.</name>
+					<coordinates>14.113260,-89.650280</coordinates>
+					<description>Barrio San Antonio, Avenida Domingo Peñate Sur y Calle 3 Poniente, Edificio de Alcaldía Municipal, Candelaria de la Frontera, Santa Ana.</description>
+					<telephone>7118-3179 y 2452-7912</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:00 PM a 1:00 PM</horary>
+				</placemarket>
+				<placemarket>
+					<name>Taquilla LNB </name>
+					<coordinates>13.700731,-89.215088</coordinates>
+					<description>Entre Avenida Independencia y la 2ª Av. Sur y  la 3ª y  5ª calle Poniente, condominio comercial Tomás Regalado, Locales b1 y b3, Santa Ana. Oficinas de la LNB, Santa Ana. </description>
+					<telephone>2447-0293</telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Sonsonate</name>
+				<coordinates>13.717660, -89.725385</coordinates>
+				<placemarket>
+					<name>Agencia Sonsonate</name>
+					<coordinates>13.721520,-89.727865</coordinates>
+					<description>Barrio el Centro 1a Calle poniente y 1a Av. Norte, Sonsonate</description>
+					<telephone>2451-0173 /2450-2316/2451-0801</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Usulután</name>
+				<coordinates>13.344568, -88.442731</coordinates>
+				<placemarket>
+					<name>Agencia Berlin</name>
+					<coordinates>13.499236,-88.530614</coordinates>
+					<description>1° Calle poniente y Avenida Jose Simeon Cañas, frente al parque central de Berlin, Usulutan. </description>
+					<telephone>2132-7972/ 7973/7974 y 7975.</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket><placemarket>
+					<name>Agencia Usulután</name>
+					<coordinates>13.345557,-88.439166</coordinates>
+					<description>2a. Calle oriente y 2da. Av. Norte, Usulután</description>
+					<telephone>2662-0607 /0120/0207</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM, Sabado 8:00 AM - 12:00 PM</horary>
+				</placemarket><placemarket>
+					<name>Taquilla Alcaldia Municipal deSanta Elena Usulutan</name>
+					<coordinates>13.379299,-88.414197</coordinates>
+					<description>2ª calle Pte. y 5ª Av. sur, Bº El calvario, Santa Elena, Usulután</description>
+					<telephone>2132-7969 y 7608-6708</telephone>
+					<horary>Lunes a Viernes 8:00 AM - 4:00 PM cerramos de 12:00 PM a 1:00 PM</horary>
+				</placemarket>
+			</city>
+	</country>
+</document>

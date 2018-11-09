@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<country>
+		<name>Honduras</name>
+		<coordinates>15.199999,-86.241905</coordinates>
+			<city>
+				<name>Tegucigalpa</name>
+				<coordinates>14.0833,-87.2167</coordinates>
+				<placemarket>
+		<name>Centro de Atención - Blvd. Morazán TEG</name>
+		<coordinates>14.100029,-87.180298</coordinates>
+		<description>
+
+Boulevard Morazán,Tegucigalpa, Honduras.
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Santa Mónica Presidencial TEG</name>
+		<coordinates>14.089553,-87.188927</coordinates>
+		<description>
+  Blvd.
+  Juan Pablo II, Centro Comercial Santa Mónica,Frente a Casa Presidencial. Tegucigalpa, Honduras.
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Kennedy TEG</name>
+		<coordinates>14.065279,-87.184189</coordinates>
+		<description>
+Colonia Kennedy,Frente a Credomatic ycontiguo a Burger King.Tegucigalpa, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Hospital Escuela TEG</name>
+		<coordinates>14.088421,-87.195946</coordinates>
+		<description>Calle La Salud,Frente a Hospital Escuela,Tegucigalpa, Honduras.
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Castaños TEG</name>
+		<coordinates>14.100281,-87.189163</coordinates>
+		<description>Centro Comercial Los Castaños,Boulevard Morazán,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Metro Mall TEG</name>
+		<coordinates>14.074562,-87.212608</coordinates>
+		<description>
+MetroMallPrimer Nivel,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Cascadas TEG</name>
+		<coordinates>14.076090,-87.201920</coordinates>
+		<description>
+Centro Comercial CascadasPrimer Nivel,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - FoodMall TEG</name>
+		<coordinates>14.097997,-87.225647</coordinates>
+		<description>
+Food MallColonia Santa Fe,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - UNAH TEG</name>
+		<coordinates>14.082763,-87.166824</coordinates>
+		<description>
+Centro Comercial Santa Mónica,Frente a Universidad Nacional Autónoma de Honduras.tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Comayagua</name>
+		<coordinates>14.445299,-87.637360</coordinates>
+		<description>Centro Comercial Santa Mónica,Comayagua.
+Honduras.
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Mall El Dorado TEG</name>
+		<coordinates>14.099787,-87.182007</coordinates>
+		<description>Mall El Dorado,Boulevard Morazán,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Plaza Victoria TEG</name>
+		<coordinates>14.078668,-87.186470</coordinates>
+		<description>
+Edificio Plaza Victoria,Banco Ficohsa, 4to Nivel,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - FoodPlaza TEG</name>
+		<coordinates>14.088674,-87.192062</coordinates>
+		<description>
+FoodPlaza,Boulevard Juan Pablo II.Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - NovaCentro TEG</name>
+		<coordinates>14.101434,-87.186943</coordinates>
+		<description>
+Centro Comercial Novacentro,Los Próceres.Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Santa Mónica Aeropuerto TEG</name>
+		<coordinates>14.060469,-87.220222</coordinates>
+		<description>
+Centro Comercial Santa Mónica,Aeropuerto Toncontín,Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Centro TEG</name>
+		<coordinates>14.105115,-87.204529</coordinates>
+		<description>
+Centro Comercial Midence Soto,Primer Nivel, contiguo a Burger King.Tegucigalpa, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Miraflores TEG</name>
+		<coordinates>14.077723,-87.185692</coordinates>
+		<description>
+Boulevard Miraflores,Tegucigalpa, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Multiplaza TEG</name>
+		<coordinates>14.088169,-87.183594</coordinates>
+		<description>
+Mall Multiplaza, Segundo Nivel.Tegucigalpa, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+			</city>
+			<city>
+				<name>San Pedro Sula</name>
+				<coordinates>15.50167,-88.02774</coordinates>
+					<placemarket>
+		<name>Centro de Atención - Metro Plaza SPS</name>
+		<coordinates>15.523315,-88.023933</coordinates>
+		<description>Centro Comercial MetroplazaBoulevard salida a Tegucigalpa,San Pedro Sula, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - City Mall SPS</name>
+		<coordinates>15.496813,-88.035973</coordinates>
+		<description>
+Citi Mall 2do Nivel,Área de Food Court, contiguo a Popeyes,San Pedro Sula, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - La Moderna SPS</name>
+		<coordinates>15.511623,-88.036400</coordinates>
+		<description>Avenida Circunvalacion,Entre 5 y 6 calle, Col. Moderna,Frente a Supermercado Los Andes.San Pedro Sula, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Lobby CityMall SPS</name>
+		<coordinates>15.496968,-88.035866</coordinates>
+		<description>City Mall,Lobby.San Pedro Sula, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Galerias del Valle SPS</name>
+		<coordinates>15.530396,-88.027725</coordinates>
+		<description>Mall Galerías del Valle,San Pedro Sula, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Los Castaños SPS</name>
+		<coordinates>15.550991,-88.001984</coordinates>
+		<description>Centro Comercial Los Castaños,San Pedro Sula, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Peatonal SPS</name>
+		<coordinates>15.504520,-88.025558</coordinates>
+		<description>
+  Calle
+  Peatonal, Frente Alcaldia.San Pedro Sula, Honduras.
+
+ 
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Antorcha SPS</name>
+		<coordinates>15.533960,-88.019569</coordinates>
+		<description>
+  Supermercados
+  La Antorcha, San Pedro Sula, Honduras
+
+</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - MetroPlaza SPS</name>
+		<coordinates>15.318415,-87.991234</coordinates>
+		<description>Centro Comercial MegaPlaza,Boulevard hacia Tegucigalpa,San Pedro Sula, Honduras.</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención - Aeropuerto San Pedro Sula</name>
+		<coordinates>15.456069,-87.927292</coordinates>
+		<description>Aeropuerto InternacionalRamón Villeda Morales,San Pedro Sula, Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+	<placemarket>
+		<name>Centro de Atención Diunsa Pedregal </name>
+		<coordinates>15.524762,-88.039833</coordinates>
+		<description>Diunsa Pedregal, San Pedro Sula Honduras</description>
+		<telephone></telephone>
+		<horary></horary>
+	</placemarket>
+			</city>
+	
+			<city>
+				<name>La Ceiba</name>
+				<coordinates>15.766524843626488,-86.83306217193604</coordinates>
+				<placemarket>
+						<name>Centro de Atención - Mega Plaza La Ceiba</name>
+						<coordinates>15.771982,-86.791054</coordinates>
+						<description>Centro Comercial Mega Plaza, La Ceiba, Honduras.</description>
+						<telephone></telephone>
+						<horary></horary>
+					</placemarket>
+					<placemarket>
+						<name>Centro de Atención La Ceiba</name>
+						<coordinates>15.783685,-86.791641</coordinates>
+						<description>Barrio El Centro, La Ceiba, Honduras.</description>
+						<telephone></telephone>
+						<horary></horary>
+					</placemarket>
+					<placemarket>
+						<name>Centro de Atención - Sta. Mónica La Ceiba</name>
+						<coordinates>15.773012,-86.785889</coordinates>
+						<description>Centro Comercial Santa Monica, La Ceiba, Honduras</description>
+						<telephone></telephone>
+						<horary></horary>
+					</placemarket>
+			</city>
+
+			<city>
+				<name>Colón</name>
+				<coordinates>15.666538, -86.005524</coordinates>
+				<placemarket>
+						<name>Centro de Atención - Tocoa</name>
+						<coordinates>15.6628232,-85.9955319</coordinates>
+						<description>...</description>
+						<telephone></telephone>
+						<horary></horary>
+				</placemarket>
+			</city>
+	</country>
+</document>

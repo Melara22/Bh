@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<country>
+		<name>El Salvador</name>
+		<coordinates>13.737109, -88.942066</coordinates>
+			<city>
+				<name>Ahuachapán</name>
+				<coordinates>13.927401, -89.844518</coordinates>
+				<placemarket>
+					<name>Despensa familiar Atiquizaya</name>
+					<coordinates>13.976582,-89.755032</coordinates>
+					<description>4a. Calle Pte, Atiquizaya</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Chalatenango</name>
+				<coordinates>14.015252,-88.915787</coordinates>
+				<placemarket>
+					<name>Despensa Familiar Chalatenango</name>
+					<coordinates>14.039592,-88.939693</coordinates>
+					<description>6a Calle Poniente, Chalatenango, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>La Libertad</name>
+				<coordinates>13.732058, -89.375118</coordinates>
+				<placemarket>
+					<name>Centro Comercial Las Cascadas</name>
+					<coordinates>13.678295,-89.250425</coordinates>
+					<description>Avenida Jerusalén y Carretera Panamericana, Oficinas administrativas L221, Nivel 2, contiguo a Anda, Antiguo Cuscatlán CP 1502</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Multiplaza Área de Cafeterías 1er Nivel</name>
+					<coordinates>13.679667,-89.248863</coordinates>
+					<description>Carretera Panamericana, Antiguo Cuscatlan, La Libertad</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Plaza Merliot (Food Court 2o. Nivel)</name>
+					<coordinates>13.678704,-89.275867</coordinates>
+					<description>17 Ave Norte, Santa Tecla, La Libertad</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Centro Comercial La Gran Vía</name>
+					<coordinates>13.677406,-89.254473</coordinates>
+					<description>Carretera Panamericana y Calle Chiltiupán. Antiguo Cuscatlán, La Libertad El Salvador.</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Centro Comercial La Joya ( Entrada Dollar City)</name>
+					<coordinates>13.657353,-89.279167</coordinates>
+					<description>Km 12 Carretera al Puerto de la Libertad, Centro Comercial La Joya, La Libertad, Santa Tecla El Salvador, C.A., Carretera Puerto La Libertad, Santa Tecla</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Centro Comercial Santa Elena (a un costado de Kreef)</name>
+					<coordinates>13.667642,-89.256390</coordinates>
+					<description>3ra. Av 8-56 Plaza Santa Elena Mazate, Antiguo Cuscatlán</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Centro Comercial Santa Rosa ( Frente a Condado Santa Rosa)</name>
+					<coordinates>13.678101,-89.300921</coordinates>
+					<description>Calle Real, Santa Tecla</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Texaco Ateos</name>
+					<coordinates>13.740311,-89.424474</coordinates>
+					<description>Carr. a Sonsonate Km. 30 Sacacoyo, La Libertad, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Hotel Roca Sunzal </name>
+					<coordinates>13.493377,-89.384939</coordinates>
+					<description>Cl a La Bocana Playa El Tunco, Tamanique, La Libertad</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>La Unión</name>
+				<coordinates>13.333689, -87.853503</coordinates>
+				<placemarket>
+					<name>Despensa Familiar La Unión (Fte al parque)</name>
+					<coordinates>13.336822,-87.842663</coordinates>
+					<description>1A Avenida Norte, La Unión</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>San Miguel</name>
+				<coordinates>13.472255, -88.175956</coordinates>
+				<placemarket>
+					<name>Metrocentro San Miguel</name>
+					<coordinates>13.461544,-88.165057</coordinates>
+					<description>Calle metrocentro, San Miguel</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>San Salvador</name>
+				<coordinates>13.701649, -89.218300</coordinates>
+				<placemarket>
+					<name>Galerías Escalón (área de Bancos)</name>
+					<coordinates>13.702396,-89.229915</coordinates>
+					<description>Paseo General Escalón #3700, San Salvador, El Salvador C.A</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Metrocentro San Salvador (Cinemark 9a Etapa)</name>
+					<coordinates>13.705598,-89.211948</coordinates>
+					<description>Boulevard De Los Héroes, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Plaza Mundo Soyapango  (área de Bancos)</name>
+					<coordinates>13.698772,-89.150310</coordinates>
+					<description>CA 1W, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Unicentro Metrópolis</name>
+					<coordinates>13.729487,-89.210213</coordinates>
+					<description>Calle Zacamil, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Unicentro-AltaVista</name>
+					<coordinates>13.716487,-89.097521</coordinates>
+					<description>Ilopango, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Centro Comercial Plaza San Jacinto</name>
+					<coordinates>13.684680,-89.191783</coordinates>
+					<description>Av Los Diplomáticos, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Torre Futura </name>
+					<coordinates>13.708527,-89.241044</coordinates>
+					<description>87 Avenida Norte, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Maxidespensa San Marcos</name>
+					<coordinates>13.661384,-89.183084</coordinates>
+					<description>Carretera A Zacatecoluca, San Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Despensa Familiar Aguilares</name>
+					<coordinates>13.958119,-89.188138</coordinates>
+					<description>6a Calle Pte. #3 Bo El Centro Aguilares San Salvador, Aguilares</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Walmart Soyapango</name>
+					<coordinates>13.700438,-89.150716</coordinates>
+					<description>4 Av. Sur, Km. 4 ½, Boulevard del Ejército.</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Walmart Escalon</name>
+					<coordinates>13.698430,-89.228195</coordinates>
+					<description>Colonia Escalón entre la calle nueva 1 y la calle nueva 2, antiguo Hiper Europa.</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Walmart Mejicanos</name>
+					<coordinates>13.736095,-89.215972</coordinates>
+					<description>Final del Blvd. Constitución, frente al Redondel Shafik Handal, Mejicanos.</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Alba Bolívar</name>
+					<coordinates>13.699065,-89.198125</coordinates>
+					<description>Calle Ruben Dario, San Salvador, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Alba Masferrer </name>
+					<coordinates>13.722882,-89.234391</coordinates>
+					<description>Avenida Jerusalen 0006, San Salvador, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Texaco Navarra</name>
+					<coordinates>13.677847,-89.207906</coordinates>
+					<description>Autopista Comalapa, San Salvador, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Ministerio de Obras Públicas</name>
+					<coordinates>13.690660,-89.233507</coordinates>
+					<description>Km. 5.5, Alameda Manuel Enrique Araujo, San Salvador 2112</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>ISDEM ( Instituto Salvadoreño de Empleados Municipales)</name>
+					<coordinates>13.703931,-89.234672</coordinates>
+					<description>4a Calle Poniente, San Salvador, El Salvador</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Santa Ana</name>
+				<coordinates>13.985790, -89.562307</coordinates>
+				<placemarket>
+					<name>Metrocentro Santa Ana (Food Court)</name>
+					<coordinates>13.977492,-89.562112</coordinates>
+					<description>6a Avenida Sur, Santa Ana</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+			<city>
+				<name>Sonsonate</name>
+				<coordinates>13.717660, -89.725385</coordinates>
+				<placemarket>
+					<name>Metrocentro Sonsonate </name>
+					<coordinates>13.712482,-89.725363</coordinates>
+					<description>Sonsonate</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+				<placemarket>
+					<name>Despensa Familiar Izalco</name>
+					<coordinates>13.748281,-89.674698</coordinates>
+					<description> Ave. Morazan Y 3ra. C. Poniente Bo., Dolores De La Calidad De Izalco Izalco Sonsonate, Izalco</description>
+					<telephone></telephone>
+					<horary></horary>
+				</placemarket>
+			</city>
+	</country>
+</document>
