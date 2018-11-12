@@ -19,13 +19,13 @@
 define('DB_NAME', 'bh_dev');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'admin');
+define('DB_USER', 'oscar');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', 't91nnd9K56L2OHOd');
+define('DB_PASSWORD', '12345');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', '35.188.5.134');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8mb4');
